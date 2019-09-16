@@ -5,14 +5,14 @@ BAS6            16    input\SACr.ba6
 DIS             17    input\SACr.dis
 UPW             18    input\SACr.upw 
 OC              19    input\SACr.oc
-#MNW2            20    input\SACr.mnw
+MNW2            20    input\SACr.mnw
 AG              50    input\SACr_gsflow_1959_4_layers.ag
 NWT             25    input\SACr.nwt 
 MULT            23    input\SACr.mul
 UZF             24    input\SACr.uzf
 ZONE            26    input\SACr.zon  
 #HFB6            27    input\SACr.hfb
-#PVAL            28    input\SACr.pval
+PVAL            28    input\SACr.pval
 SFR             29    input\SACr.sfr
 #HOB             14    input\SACr.hob
 GAGE            37    input\SACr.gag
@@ -39,5 +39,5 @@ DATA  83  output\SACr.gag4
 DATA  84  output\SACr.gag5
 #   Ag out
 DATA 103 output\well_ET_all.agout
-DATA 104 output\well_all.agout
-DATA 105 output\well_ET_1.agout
+DATA 104 output\wellall.agout
+DATA 105 output\well_ET_5.agout
