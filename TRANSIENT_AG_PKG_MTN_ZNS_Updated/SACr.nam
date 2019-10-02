@@ -1,4 +1,4 @@
-# NAME file for TR model 
+# NAME file for TR model LW
 #
 LIST            15    output\SACr.lst
 BAS6            16    input\SACr.ba6
