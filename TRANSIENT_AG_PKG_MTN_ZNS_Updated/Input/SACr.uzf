@@ -1,9 +1,13 @@
-3  1  2 1 33 -132 25 300 1 2.0               NUZTOP IUZFOPT IRUNFLG IETFLG IUZFCB1 IUZFCB2 NTRAIL NSETS NUZGAGES SURFDEP
+OPTIONS
+SPECIFYTHTR
+END
+4  1  2 1 33 -132 25 300 1 2.0               NUZTOP IUZFOPT IRUNFLG IETFLG IUZFCB1 IUZFCB2 NTRAIL NSETS NUZGAGES SURFDEP
 OPEN/CLOSE          input\Arrays\iuzfbnd.txt        1         (free)    6   UZFBND
 OPEN/CLOSE          input\Arrays\irunbnd.txt         1         (free)    6   IRUNBND
 OPEN/CLOSE          input\Arrays\vks_index.txt               1.75e-05         (free)    6   IRUNBND
 CONSTANT   4.0                        BROOKS/COREY EPSILON (EPS)
-OPEN/CLOSE   input\Arrays\THTS.txt         1         (free)    6     SATURATED WATER CONTENT (THTS)
+OPEN/CLOSE   input\Arrays\THTS.txt         1         (free)    6     SATURATED WATER CONTENT (THTS)      
+CONSTANT   0.11000                       INITIAL WATER CONTENT (THTR)
 CONSTANT   0.11004                       INITIAL WATER CONTENT (THTI)
 -134
 1
