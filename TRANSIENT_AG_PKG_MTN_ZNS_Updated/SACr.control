@@ -23,9 +23,9 @@ start_time
 end_time
 6
 1
-2018
-9
-30
+2016
+12
+31
 0
 0
 0
@@ -135,7 +135,7 @@ aniOutON_OFF
 ani_output_file
 1
 4
-./output/RR_ani1.out
+./output/SACr_ani1.out
 ####
 naniOutVars
 1
@@ -232,17 +232,12 @@ snow_intcp_dynamic
 dyn_soil_flag
 1
 1
-3
+0
 ####
 soilmoist_dynamic
 1
 4
 ./input/moist_max.dyn
-####
-soilrechr_dynamic
-1
-4
-./input/rechr_max.dyn
 ####
 dyn_potet_flag
 1
@@ -253,4 +248,3 @@ potetcoef_dynamic
 1
 4
 ./input/jh_coef.dyn
-
