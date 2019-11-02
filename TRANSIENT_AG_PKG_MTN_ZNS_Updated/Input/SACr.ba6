@@ -4,7 +4,7 @@ OPEN/CLOSE input\Arrays\ibnd2.txt 1 (FREE)  2
 OPEN/CLOSE input\Arrays\ibnd3.txt 1 (FREE)  2
 OPEN/CLOSE input\Arrays\ibnd4.txt 1 (FREE)  2
 -9999
-OPEN/CLOSE input\Arrays\ss_hed1.txt 1 (FREE)   3
-OPEN/CLOSE input\Arrays\ss_hed2.txt 1 (FREE)   3
-OPEN/CLOSE input\Arrays\ss_hed3.txt 1 (FREE)   3
-OPEN/CLOSE input\Arrays\ss_hed4.txt 1 (FREE)   3
+OPEN/CLOSE input\Arrays\ss_wl_ed.txt 1 (FREE)   3
+OPEN/CLOSE input\Arrays\ss_wl_ed.txt 1 (FREE)   3
+OPEN/CLOSE input\Arrays\ss_wl_ed.txt 1 (FREE)   3
+OPEN/CLOSE input\Arrays\ss_wl_ed.txt 1 (FREE)   3
