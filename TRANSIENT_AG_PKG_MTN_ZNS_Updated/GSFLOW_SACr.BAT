@@ -2,5 +2,5 @@
 
 REM ________________________Running GSFLOW
 
-bin\gsflow.exe  SACr.control
+gsflow.exe  SACr.control
 pause
