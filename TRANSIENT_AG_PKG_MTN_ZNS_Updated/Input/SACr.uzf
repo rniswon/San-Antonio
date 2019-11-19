@@ -11,7 +11,7 @@ CONSTANT   1.0                        K for surface leakage (surfk)
 CONSTANT   4.0                        BROOKS/COREY EPSILON (EPS)
 OPEN/CLOSE   input\Arrays\THTS.txt         1         (free)    6     SATURATED WATER CONTENT (THTS)      
 OPEN/CLOSE   input\Arrays\THTR.txt        1         (free)    6       RESIDUAL WATER CONTENT (THTR)
-CONSTANT   0.161                       INITIAL WATER CONTENT (THTI)
+CONSTANT   0.168                       INITIAL WATER CONTENT (THTI)
 -134
 1
 OPEN/CLOSE          input\Arrays\avePPT_mpd.txt         1.0000000E-01   (free)    0    FINF  SS
