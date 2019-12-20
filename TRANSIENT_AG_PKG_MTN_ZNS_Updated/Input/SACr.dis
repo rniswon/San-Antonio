@@ -3,9 +3,9 @@
 CONSTANT  150         
 CONSTANT  150         
 OPEN/CLOSE  input\Arrays\DEM_ADJ.txt  1 (FREE)  14    
-OPEN/CLOSE  input\Arrays\bot1.txt  1 (FREE)  14    
-OPEN/CLOSE  input\Arrays\bot2_ed.txt  1 (FREE)  14    
-OPEN/CLOSE  input\Arrays\bot3.txt  1 (FREE)  14    
+OPEN/CLOSE  input\Arrays\bot1a.txt  1 (FREE)  14    
+OPEN/CLOSE  input\Arrays\bot2a.txt  1 (FREE)  14    
+OPEN/CLOSE  input\Arrays\bot3a.txt  1 (FREE)  14    
 OPEN/CLOSE  input\Arrays\bot4ed_adj.txt  1 (FREE)  14
 31	31	1	tr	Oct-47	1
 30	30	1	tr	Nov-47	2
