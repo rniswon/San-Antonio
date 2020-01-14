@@ -11,7 +11,7 @@ NWT             25    input\SACr.nwt
 UZF             24    input\SACr.uzf
 ZONE            26    input\SACr_mt_cx.zon  
 PVAL            28    input\SACr_mt_cx.pval
-SFR             29    input\SACr.sfr
+SFR             29    input\SACr_newStrK.sfr
 HOB             14    input\SACr.hob
 GAGE            37    input\SACr.gag
 # output files
