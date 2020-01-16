@@ -38,7 +38,7 @@ SACr.nam
 param_file
 1
 4
-./input/SACr_update2_ssr2gw_satThresh.param
+./input/SACr_v2.param
 ####
 data_file
 1
