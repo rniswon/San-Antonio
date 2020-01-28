@@ -1,6 +1,6 @@
 #San Antonion Creek GSFLOW model																					
 #2nd	Line																				
--33	-8888.8	64	0																		
+-33	-8888.8	68	0																		
 1	2	3	4	Line	2:00	LAYTYP	(NLAY)	0	=	confined	layers								
 0	0	0	0	Line	3:00	LAYAVG	(NLAY)	0	=	harmonic	mean	between	layers						
 1	1	1	1	Line	4:00	CHANI	(NLAY)	1	=	horizontal	anisotropy	HANI	is	not	read				
@@ -10,6 +10,14 @@ HK1_z13	HK	1.0	1
 1	NONE	zone1	13
 HK1_z131	HK	1.0	1																		
 1	NONE	zone1	131
+HK1_z135	HK	1.0	1																		
+1	NONE	zone1	135
+HK1_z141	HK	1.0	1																		
+1	NONE	zone1	141
+HK1_z151	HK	1.0	1																		
+1	NONE	zone1	151
+HK1_z161	HK	1.0	1																		
+1	NONE	zone1	161
 HK2_z10	HK	1.0	1
 2	NONE	zone2	10
 HK2_z102	HK	1.0	1
@@ -22,16 +30,10 @@ HK2_z13	HK	1.0	1
 2	NONE	zone2	13
 HK2_z132	HK	1.0	1
 2	NONE	zone2	132
-HK3_z8	HK	1.0	1	
-3	NONE	zone3	8
-HK3_z83	HK	1.0	1	
-3	NONE	zone3	83
 HK3_z9	HK	1.0	1
 3	NONE	zone3	9
 HK3_z93	HK	1.0	1
 3	NONE	zone3	93
-HK3_z13	HK	1.0	1
-3	NONE	zone3	13
 HK3_z133	HK	1.0	1
 3	NONE	zone3	133
 HK4_z8	HK	1.0	1
@@ -42,6 +44,14 @@ Vani1_z13	VANI	1.0 1
 1	NONE	zone1	13
 Vani1_z131	VANI	1.0 1																			
 1	NONE	zone1	131
+Vani1_z135	VANI	1.0 1																			
+1	NONE	zone1	135
+Vani1_z141	VANI	1.0 1																			
+1	NONE	zone1	141
+Vani1_z151	VANI	1.0 1																			
+1	NONE	zone1	151
+Vani1_z161	VANI	1.0 1																			
+1	NONE	zone1	161
 Vani2_z10	VANI	1.0 1																			
 2	NONE	zone2	10
 Vani2_z102	VANI	1.0 1																			
@@ -54,16 +64,10 @@ Vani2_z13	VANI	1.0 1
 2	NONE	zone2	13
 Vani2_z132	VANI	1.0 1																			
 2	NONE	zone2	132
-Vani3_z8	VANI	1.0 1																			
-3	NONE	zone3	8
-Vani3_z83	VANI	1.0 1																			
-3	NONE	zone3	83
 Vani3_z9	VANI	1.0 1																			
 3	NONE	zone3	9
 Vani3_z93	VANI	1.0 1																			
 3	NONE	zone3	93
-Vani3_z13	VANI	1.0 1																			
-3	NONE	zone3	13
 Vani3_z133	VANI	1.0 1																			
 3	NONE	zone3	133
 Vani4_z8	VANI	1.0 1																			
@@ -74,6 +78,14 @@ SY1_z13	SY	1.0	1
 1	NONE	zone1	13
 SY1_z131	SY	1.0	1																		
 1	NONE	zone1	131
+SY1_z135	SY	1.0	1																		
+1	NONE	zone1	135
+SY1_z141	SY	1.0	1																		
+1	NONE	zone1	141
+SY1_z151	SY	1.0	1																		
+1	NONE	zone1	151
+SY1_z161	SY	1.0	1																		
+1	NONE	zone1	161
 SY2_z10	SY	1.0	1
 2	NONE	zone2	10
 SY2_z102	SY	1.0	1
@@ -86,16 +98,10 @@ SY2_z13	SY	1.0	1
 2	NONE	zone2	13
 SY2_z132	SY	1.0	1
 2	NONE	zone2	132
-SY3_z8	SY	1.0	1	
-3	NONE	zone3	8
-SY3_z83	SY	1.0	1	
-3	NONE	zone3	83
 SY3_z9	SY	1.0	1
 3	NONE	zone3	9
 SY3_z93	SY	1.0	1
 3	NONE	zone3	93
-SY3_z13	SY	1.0	1
-3	NONE	zone3	13
 SY3_z133	SY	1.0	1
 3	NONE	zone3	133
 SY4_z8	SY	1.0	1
@@ -106,6 +112,14 @@ SS1_z13	SS	1.0	1
 1	NONE	zone1	13
 SS1_z131	SS	1.0	1																		
 1	NONE	zone1	131
+SS1_z135	SS	1.0	1																		
+1	NONE	zone1	135
+SS1_z141	SS	1.0	1																		
+1	NONE	zone1	141
+SS1_z151	SS	1.0	1																		
+1	NONE	zone1	151
+SS1_z161	SS	1.0	1																		
+1	NONE	zone1	161
 SS2_z10	SS	1.0	1
 2	NONE	zone2	10
 SS2_z102	SS	1.0	1
@@ -118,16 +132,10 @@ SS2_z13	SS	1.0	1
 2	NONE	zone2	13
 SS2_z132	SS	1.0	1
 2	NONE	zone2	132
-SS3_z8	SS	1.0	1	
-3	NONE	zone3	8
-SS3_z83	SS	1.0	1	
-3	NONE	zone3	83
 SS3_z9	SS	1.0	1
 3	NONE	zone3	9
 SS3_z93	SS	1.0	1
 3	NONE	zone3	93
-SS3_z13	SS	1.0	1
-3	NONE	zone3	13
 SS3_z133	SS	1.0	1
 3	NONE	zone3	133
 SS4_z8	SS	1.0	1

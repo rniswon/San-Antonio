@@ -24,8 +24,8 @@ end_time
 6
 1
 2018
-12
-31
+9
+30
 0
 0
 0
@@ -38,7 +38,7 @@ SACr.nam
 param_file
 1
 4
-./input/SACr_updated_jh_coef_5.param
+./input/SACr_v2.param
 ####
 data_file
 1
