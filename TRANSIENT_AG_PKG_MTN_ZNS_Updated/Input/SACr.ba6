@@ -1,10 +1,10 @@
 free printtime showprogress stoperror 100.
 OPEN/CLOSE input\Arrays\zon1a.txt 1 (FREE)  2
-OPEN/CLOSE input\Arrays\zon2mt_Cx_Alt.txt 1 (FREE)  2
-OPEN/CLOSE input\Arrays\zon3mtAdj.txt 1 (FREE)  2
-OPEN/CLOSE input\Arrays\zon4withMt.txt 1 (FREE)  2
+OPEN/CLOSE input\Arrays\zon2mtCxAlt1.txt 1 (FREE)  2
+OPEN/CLOSE input\Arrays\zon3mtAdj1.txt 1 (FREE)  2
+OPEN/CLOSE input\Arrays\zon4withMt1.txt 1 (FREE)  2
 -9999
-OPEN/CLOSE input\Arrays\Head1_120919.txt 1 (FREE)   3
-OPEN/CLOSE input\Arrays\Head2_120919.txt 1 (FREE)   3
-OPEN/CLOSE input\Arrays\Head3_120919.txt 1 (FREE)   3
-OPEN/CLOSE input\Arrays\Head4_120919.txt 1 (FREE)   3
+OPEN/CLOSE input\Arrays\ss_wl_ed.txt 1 (FREE)   3
+OPEN/CLOSE input\Arrays\ss_wl_ed.txt 1 (FREE)   3
+OPEN/CLOSE input\Arrays\ss_wl_ed.txt 1 (FREE)   3
+OPEN/CLOSE input\Arrays\ss_wl_ed.txt 1 (FREE)   3

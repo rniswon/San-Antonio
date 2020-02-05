@@ -3,9 +3,9 @@
 zone1       Line 2: ZONNAM
 OPEN/CLOSE  input\Arrays\zon1a.txt  1 (FREE) 1 Line 3: IZON: OPEN/CLOSE FNAME CNSTNT FMTIN IPRN
 zone2       Line 2: ZONNAM
-OPEN/CLOSE  input\Arrays\zon2mt_Cx_Alt.txt  1 (FREE) 1 
+OPEN/CLOSE  input\Arrays\zon2mtCxAlt1.txt  1 (FREE) 1 
 zone3       Line 2: ZONNAM
-OPEN/CLOSE  input\Arrays\zon3mtAdj.txt  1 (FREE) 1 
+OPEN/CLOSE  input\Arrays\zon3mtAdj1.txt  1 (FREE) 1 
 zone4       Line 2: ZONNAM
-OPEN/CLOSE  input\Arrays\zon4withMt.txt  1 (FREE) 1 
+OPEN/CLOSE  input\Arrays\zon4withMt1.txt  1 (FREE) 1 
 

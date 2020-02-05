@@ -17,7 +17,7 @@ OPEN/CLOSE          input\Arrays\avePPT_mpd.txt         1.0000000E-01   (free)  
 1
 OPEN/CLOSE          input\Arrays\SS_pet.txt      1.00000E+00       (free)    0    PET
 1
-OPEN/CLOSE            input\Arrays\extdepth.txt        0.5       (free)    0     ET extinction depths (EXTDP)
+OPEN/CLOSE            input\Arrays\extdepth.txt        1.0       (free)    0     ET extinction depths (EXTDP)
 1
 CONSTANT 0.1001         extinction water content (EXTWC); between THTS-SY and THTS
 -1
